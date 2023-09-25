@@ -1,0 +1,41 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Perform operation: (number A) + (number B)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+If number%2=0, print: "even"
+If number%2>0, print: "odd"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) get 5 integers: intA, intB, intC, intD, intE
+b) perform operation: (intA+intB+intC+intD+intE) / 5 = X
+c) 
+
+if intA<intB, print intA
+  else print intB
+if (answer from previous) < intC, print (answer from previous)
+  else print intC
+continue for all 5 integers
+answer at end = "minimum" 
+
+if intA>intB, print intA
+  else print intB
+if (answer from previous) < intC, print (answer from previous)
+  else print intC
+continue for all 5 integers
+answer at end = "maximum"
+
+d) 
+X = (value) = average of the 5 numbers
+minimum = (value) = smallest of the 5 numbers
+maximum = (value) = largest of the 5 numbers
+
+-- END --
