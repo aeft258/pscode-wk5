@@ -28,7 +28,7 @@ answer at end = "minimum"
 
 if intA>intB, print intA
   else print intB
-if (answer from previous) < intC, print (answer from previous)
+if (answer from previous) > intC, print (answer from previous)
   else print intC
 continue for all 5 integers
 answer at end = "maximum"
